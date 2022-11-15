@@ -62,6 +62,10 @@
     }
 }
 
+@mixin logo-font {
+    font-family: 'Pacifico', 'sans-serif';
+}
+
 @mixin heading-font {
     font-family: 'Catamaran', 'Arial', 'Helvetica', 'sans-serif';
     font-weight: 700;
