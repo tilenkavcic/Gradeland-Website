@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - All Local v0.1.0 (https://alllocal.space)
- * Copyright 2013-2022 
+ * Copyright 2013-2023 
  * Licensed under MIT (https://github.com/StartBootstrap/alllocal/blob/master/LICENSE)
  */
 
